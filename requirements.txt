@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow
+pandas
+xlsxwriter
