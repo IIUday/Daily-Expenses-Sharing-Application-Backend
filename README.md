@@ -29,8 +29,7 @@ This is a backend service for managing daily expenses and splitting them among p
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/IIUday/Daily-Expenses-Sharing-Application-Backend.git
 ```
 
 ### Install Dependencies
